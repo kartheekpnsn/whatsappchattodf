@@ -2,9 +2,9 @@ from setuptools import find_packages, setup
 
 setup(
     name="whatsappchattodf",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="0.1.2",
+    author="Kartheek Palepu",
+    author_email="kartheekpnsn@gmail.com",
     description="Convert WhatsApp chat logs (.txt) to a pandas DataFrame.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
